@@ -1,0 +1,1 @@
+curl -H "Authorization: eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE2NzU0MjE3NjZ9.NiqIGfB4_iNXowv1ziNxMTejhxnIxuNmCXJmoi1s_xM" http://localhost:3000/api/v1/unconfirmed_transactions
